@@ -1,0 +1,6 @@
+{
+  "name": "Sky Hop",
+  "description": "Premium 2D arcade flying game with multiple characters, vibrant worlds, dynamic power-ups, achievements, and arcade action.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
